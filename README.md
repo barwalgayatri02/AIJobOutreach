@@ -7,4 +7,6 @@ AI-Powered Cold Email Generator for Job-Specific Outreach
 <img width="1319" height="815" alt="image" src="https://github.com/user-attachments/assets/cd93f8f6-3329-4bfe-9531-6d32193ee82f" />
 
 <img width="1678" height="788" alt="image" src="https://github.com/user-attachments/assets/b0920b8c-b12c-49b2-af5e-8c3db56c6b99" />
-<img width="505" height="233" alt="image" src="https://github.com/user-attachments/assets/c76af414-d77d-4214-9d95-bc7657fa9d8d" />
+
+<img width="513" height="485" alt="image" src="https://github.com/user-attachments/assets/954c13db-e844-4bfb-97cb-86cd04bdfa05" />
+
